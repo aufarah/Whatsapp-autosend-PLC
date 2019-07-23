@@ -1,0 +1,80 @@
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.dll
+c:\users\lenovo idepad 330\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WebDriver.xml
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WebDriver.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\WebDriver.xml
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\bin\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\obj\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\obj\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\bin\Debug\WebDriver.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\bin\Debug\WebDriver.xml
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\bin\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\bin\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\obj\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\obj\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\bin\Debug\WebDriver.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\bin\Debug\WebDriver.xml
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\bin\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\bin\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 2.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\obj\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\obj\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\bin\Debug\WebDriver.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\bin\Debug\WebDriver.xml
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\bin\Debug\Interop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\bin\Debug\AxInterop.COPC32.dll
+C:\Users\LENOVO idepad 330\Documents\Visual Studio 2015\Projects\wassap 3.0\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
