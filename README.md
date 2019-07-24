@@ -1,6 +1,6 @@
 # Whatsapp-autosend-PLC
 
-**The source code are in *wassap* folder, the executable are in wassap\WindowsFormsApplication2\bin\Debug**
+**The source code are in *wassap* and *wassap 3.0* folder, the executable are inside those folder \WindowsFormsApplication2\bin\Debug**
 
 This is a program purposed to read any error trigger from PLC and send whatsapp message to listed contacts that has been chosen. In this source code, you *can* change custom message. For actual application, you must set your PLC connection with PC by Ethernet and setting *axcopc1* toolbox on Design tab.
 
